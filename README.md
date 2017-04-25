@@ -1,6 +1,6 @@
 # npmdoc-reflect-metadata
 
-#### api documentation for  [reflect-metadata (v0.1.10)](http://rbuckton.github.io/reflect-metadata)  [![npm package](https://img.shields.io/npm/v/npmdoc-reflect-metadata.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reflect-metadata) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reflect-metadata.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reflect-metadata)
+#### basic api documentation for  [reflect-metadata (v0.1.10)](http://rbuckton.github.io/reflect-metadata)  [![npm package](https://img.shields.io/npm/v/npmdoc-reflect-metadata.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-reflect-metadata) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-reflect-metadata.svg)](https://travis-ci.org/npmdoc/node-npmdoc-reflect-metadata)
 
 #### Polyfill for Metadata Reflection API
 
@@ -89,7 +89,8 @@
     "typescript": {
         "definition": "Reflect.d.ts"
     },
-    "version": "0.1.10"
+    "version": "0.1.10",
+    "bin": {}
 }
 ```
 
